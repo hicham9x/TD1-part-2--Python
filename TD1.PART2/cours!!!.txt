@@ -1,0 +1,4 @@
+module : fichier qui contient de code 
+package : ensmble des module dans des reperatoire .
+API : application programming interface ,ensemble des convention et es regle pour consitive et interagir 
+les apps / logiciels.
